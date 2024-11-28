@@ -1,4 +1,4 @@
-# Climate Actions by Scientists
+# Climate actions by climate and non-climate researchers
 This repository contains code to reproduce all analyses and figures for the paper Dablander, F., Sachisthal, M., & Haslbeck, J.M.B. ([2024](https://osf.io/preprints/psyarxiv/5fqtr)). Climate Actions by Climate and Non-Climate Researchers. *npj Climate Action*.
 
 - `helpers.R` includes useful functions.
